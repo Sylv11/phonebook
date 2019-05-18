@@ -3,7 +3,9 @@
 This application allows you to add, update and delete contacts in a phonebook.
 
 
-## Versions you should have
+## Prerequisites
+
+### Versions you should have
 
 
 Node : 
@@ -22,6 +24,8 @@ yarn -v
 
 ## Frontend
 
+### Installing
+
 Naviguate to ```frontend/``` and type the command ```yarn``` to install the dependencies.
 
 To run the application, type ```yarn start```. It will launch the application on **port 3000**
@@ -36,6 +40,8 @@ Then, click on ```contact.spec.js``` file. It will launch a window in your brows
 
 ## Backend
 
+### Installing
+
 Run a Docker container with the following command 
 ```docker run -d -p 3306:3306 --name=phonebook --env="MYSQL_ROOT_PASSWORD=root" mysql:5.7```
 
@@ -48,3 +54,9 @@ To run the application, type ```yarn start```. It will launch the applicaton on 
 ### Tests
 
 To run the tests, type the command ```yarn test```
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://www.google.com) file for details
+
