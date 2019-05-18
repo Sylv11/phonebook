@@ -28,7 +28,7 @@ yarn -v
 Run a Docker container with the following command 
 ```docker run -d -p 3306:3306 --name=phonebook --env="MYSQL_ROOT_PASSWORD=root" mysql:5.7```
 
-Create a connection to your MySQL server and create a **phonebook** table in the database.
+Create a connection to your MySQL server and create a **phonebook** database.
 
 Naviguate to ```backend/``` and type the command ```yarn``` to install the dependencies.
 
