@@ -30,7 +30,7 @@ Run a Docker container with the following command
 
 Create a connection to your MySQL server and create a **phonebook** database.
 
-Naviguate to ```backend/``` and type the command ```yarn``` to install the dependencies.
+Navigate to ```backend/``` and type the command ```yarn``` to install the dependencies.
 
 To run the application, type ```yarn start```. It will launch the applicaton on **port 3003**.
 
@@ -43,7 +43,7 @@ To run the tests, type the command ```yarn test```
 
 ### Installing
 
-Naviguate to ```frontend/``` and type the command ```yarn``` to install the dependencies.
+Navigate to ```frontend/``` and type the command ```yarn``` to install the dependencies.
 
 To run the application, type ```yarn start```. It will launch the application on **port 3000**
 
