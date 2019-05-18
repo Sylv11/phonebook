@@ -21,23 +21,6 @@ yarn -v
 1.7.0
 ```
 
-
-## Frontend
-
-### Installing
-
-Naviguate to ```frontend/``` and type the command ```yarn``` to install the dependencies.
-
-To run the application, type ```yarn start```. It will launch the application on **port 3000**
-
-### Tests
-
-**The frontend and the backend must have been launched**
-
-To run the tests, type the command ```./node_modules/.bin/cypress open```.
-Then, click on ```contact.spec.js``` file. It will launch a window in your browser and run the tests.
-
-
 ## Backend
 
 ### Installing
@@ -54,6 +37,22 @@ To run the application, type ```yarn start```. It will launch the applicaton on 
 ### Tests
 
 To run the tests, type the command ```yarn test```
+
+
+## Frontend
+
+### Installing
+
+Naviguate to ```frontend/``` and type the command ```yarn``` to install the dependencies.
+
+To run the application, type ```yarn start```. It will launch the application on **port 3000**
+
+### Tests
+
+**The frontend and the backend must have been launched**
+
+To run the tests, type the command ```./node_modules/.bin/cypress open```.
+Then, click on ```contact.spec.js``` file. It will launch a window in your browser and run the tests.
 
 
 ## License
