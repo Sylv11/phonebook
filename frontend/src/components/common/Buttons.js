@@ -1,10 +1,10 @@
 import React from 'react'
-import {LinkButton} from "../App";
+import {LinkButton} from '../App'
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
 import {faPencilAlt, faTrashAlt} from '@fortawesome/free-solid-svg-icons'
 import styled from 'styled-components'
-import {Button} from "reactstrap";
-import {toast} from "react-toastify";
+import {Button} from 'reactstrap'
+import {toast} from 'react-toastify'
 import axios from 'axios'
 
 /*

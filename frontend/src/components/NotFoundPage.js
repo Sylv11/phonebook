@@ -1,5 +1,5 @@
 import React from 'react'
-import {LinkButton} from "./App";
+import {LinkButton} from './App'
 import styled from 'styled-components'
 
 const NotFoundButton = styled(LinkButton)`

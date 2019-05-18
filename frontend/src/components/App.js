@@ -8,8 +8,8 @@ import {Link} from 'react-router-dom'
 import axios from 'axios'
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
 import {faPlus} from '@fortawesome/free-solid-svg-icons'
-import {toast} from "react-toastify";
-import {Buttons} from "./common/Buttons";
+import {toast} from 'react-toastify'
+import {Buttons} from './common/Buttons'
 
 /*
 * This component is the home page of the application.
